@@ -66,7 +66,7 @@ This chatbot can be adapted to:
 ## 📸 Screenshot
 
 > *(Include a screenshot of your chatbot UI here)*  
-> ![Chatbot Screenshot](/img/Screenshot(338).png)
+> ![Chatbot Screenshot](/img/Screenshot.png)
 
 ---
 
