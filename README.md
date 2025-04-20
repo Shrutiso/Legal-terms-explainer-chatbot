@@ -66,7 +66,7 @@ This chatbot can be adapted to:
 ## 📸 Screenshot
 
 > *(Include a screenshot of your chatbot UI here)*  
-> ![Chatbot Screenshot](img/Screenshot(338).jpg)
+> ![Chatbot Screenshot](img/Screenshot(338).png)
 
 ---
 
@@ -76,12 +76,6 @@ This chatbot can be adapted to:
 - Add voice input/output support.
 - Expand to support more Indian regional languages.
 - Convert rule-based logic into an AI-powered conversational engine.
-
----
-
-## 📂 Repository
-
-🔗 [GitHub Link](https://github.com/Shrutiso/Legal-terms-explainer-chatbot)
 
 ---
 
